@@ -9464,3 +9464,22 @@ https://cdn4.telesco.pe/file/g7Uix3n0DC-KLyG8CRrOMGfmYiXBhQ8ddYS8gQBAgWdUxSkIDAX
 https://apps.apple.com/app/singbox/id6673731168	http_404
 https://beiyon.hanbao.lol/yuanshengqidong/6be6953badb699a7d44687174fe9122a	request_failed
 http://0.4.9.11/	request_failed
+
+=== 2026-07-02 05:44:51 - 失效订阅 (5 个) ===
+https://lnithefedhwadf2qhhald5l23zdadzci.skygo0527.top/sun/813a97778385b7d0901c78c2df84e38c	http_403
+https://sub.xnyun.wiki/xxntoken=/2e7229906b4c6a004986707681edae2a	http_404
+https://codeberg.org/SMH01/ProtonVPN-Next/releases	http_403
+https://codeberg.org/SMH01/ProtonVPN-Next	http_403
+https://cdn4.telesco.pe/file/8983bce5d9.webp?token=Y-wC3heB_KzPJFxoyJK8KDXmHbYNqcyFAycoQtj_yLuqdw-aCnaNE_jKuvyaagGvVIwO56-6SsRWvxejyGRaVEdI3EBykPXyO5EMSKGVFXDEL65IU7jGRHVVbBgYXtKD5HLdGPqUPu_bKo1rc_j6hc9BJqnuDwH12QFbf0gN3EK37DpoimLBJzy8zkBVar3gxZACRTElDZ50lVR5LiiU_3HFHWjwR97pvoZxYjAqN5nwgry_sVWGcAOoI8cepyFutWVJNaf0eG-axv2FfZdKU31LUJTT8TRucafx-9Q3GDGJ-bm0RwPcDotrrmEm_kMAC3nDJywc0NTgtCQz2e191A	http_500
+
+=== 2026-07-02 05:45:46 - 失效订阅 (10 个) ===
+https://sub.xnyun.wiki/xxntoken=/567373f2007393d96313858a9ec5f114	http_404
+https://mojie.app/api/v1/client/subscribe?token=572836eb122830ac8375b46da2f65904	request_failed
+https://mojie.app/api/v1/client/subscribe?token=2dfc7cbcb87ee203596ff519b30d5e9f	request_failed
+https://mojie.app/api/v1/client/subscribe?token=7b2524e8b617290404473801cf17aeed	request_failed
+https://mojie.app/api/v1/client/subscribe?token=6946bbd30385d2e1a77b88025463a40e	request_failed
+https://mojie.app/api/v1/client/subscribe?token=6dbf0b92279e3ca9448b883496d8870f	request_failed
+https://mojie.app/api/v1/client/subscribe?token=8f3d49f0e449452fa3c68b705ea125b8	request_failed
+https://mojie.app/api/v1/client/subscribe?token=a26e13cfd09ec11df8f2900af4693859	request_failed
+https://mojie.app/api/v1/client/subscribe?token=bd5c3115c5f1c932a7a0a1fa902f597c	request_failed
+https://mojie.app/api/v1/client/subscribe?token=dfc645ef2d5071e1ad263d15f6f22a0a	request_failed
