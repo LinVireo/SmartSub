@@ -9483,3 +9483,13 @@ https://mojie.app/api/v1/client/subscribe?token=8f3d49f0e449452fa3c68b705ea125b8
 https://mojie.app/api/v1/client/subscribe?token=a26e13cfd09ec11df8f2900af4693859	request_failed
 https://mojie.app/api/v1/client/subscribe?token=bd5c3115c5f1c932a7a0a1fa902f597c	request_failed
 https://mojie.app/api/v1/client/subscribe?token=dfc645ef2d5071e1ad263d15f6f22a0a	request_failed
+
+=== 2026-07-03 05:19:09 - 失效订阅 (8 个) ===
+https://www.npmjs.com/package/genkit	http_403
+https://www.npmjs.com/package/@genkit-ai/vercel-ai	http_403
+http://%E5%90%B9%E9%9B%AA%E4%BA%91.com/	request_failed
+https://su.gwzxwk.com/api/v1/client/subscribe?token=ab4a8870d3fb30476ab8cd8c131ea18e	request_failed
+https://www.lenzbet1.xyz	http_403
+https://www.lenzbet1.xyz/	http_403
+http://dizhi.applnn.com/	request_failed
+http://1.4.2.58/	request_failed
