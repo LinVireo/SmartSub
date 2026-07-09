@@ -9619,3 +9619,12 @@ https://llgapi.tannel.asia/s/eeb63c90775961197393e389b5f681e9#%E6%B5%81%E9%87%8F
 
 === 2026-07-09 05:20:15 - 失效订阅 (1 个) ===
 https://wulan.sbs/s/ef8c31d3087461b2c90769131f2ea4e2	http_403
+
+=== 2026-07-10 05:36:54 - 失效订阅 (3 个) ===
+https://e.lllm.dpdns.org/sub?token=c85b063ee357e64646695afbe0dcfb90&amp;b64	http_429
+https://kaze1.aisaka-taiga.com/oosaka/35978e24974cc0a4059bac0f8562f59a	http_404
+https://cdn4.telesco.pe/file/RcmJTK7hixa8yRp_tq0U1qNjexoKG07G9RB_42EDTk_8jn7siP6Tp--zGuVGTyRr9cz2tKfhSQ2VD8eNdYbqg6HqW7iT_WT3QyVu6VMhb7gsriPaf6yBfRMVSQwieQ-pdJ-yIczwtQ901SaUXuTTML4fcU9qqH4qkgLjok77r0A61XRPGD6E_i1rJn6eMDrAs2JjXR1Dsgl2XT6FFfY6QHRVg5I_ELKgf9mAj_xKyUk4tEIVTbC63-5Z-OoN3wPGo2Vj-mdGwfpUz8Ce70WcAp9bob1do76RE5wLMHjJV50vGwArMMl7YIdP376nDVb1J5CZoCtO_RGekOeH6Fm-EA	http_500
+
+=== 2026-07-10 05:37:38 - 失效订阅 (2 个) ===
+https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml	http_403
+https://jkun.waimaosass.icu/api/v1/client/subscribe?token=da8e0ff4ea977bf55b67180cc646c993	request_failed
