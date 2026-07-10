@@ -9628,3 +9628,16 @@ https://cdn4.telesco.pe/file/RcmJTK7hixa8yRp_tq0U1qNjexoKG07G9RB_42EDTk_8jn7siP6
 === 2026-07-10 05:37:38 - 失效订阅 (2 个) ===
 https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml	http_403
 https://jkun.waimaosass.icu/api/v1/client/subscribe?token=da8e0ff4ea977bf55b67180cc646c993	request_failed
+
+=== 2026-07-11 05:15:11 - 失效订阅 (7 个) ===
+https://e.lllm.dpdns.org/sub?token=c85b063ee357e64646695afbe0dcfb90	http_429
+https://iplocation.net	http_403
+https://iplocation.net/	http_403
+https://bgpview.io	request_failed
+http://iplocation.net/	http_403
+https://bgpview.io/	request_failed
+https://te.tuotuoyun.fyi/#/register?code=Bm6mfftg	request_failed
+
+=== 2026-07-11 05:16:03 - 失效订阅 (2 个) ===
+https://dingyue.bbec.cc/dingyue/13b4f58f18dc92165ca8b510e0322802	http_403
+https://dingyue.bbec.cc/dingyue/7d534421ca871eb39badeac39c799476	http_403
