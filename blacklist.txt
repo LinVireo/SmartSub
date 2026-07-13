@@ -9108,3 +9108,4 @@ https://www.lenzbet1.space/
 https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix_clash.yaml
 https://pxypool.131433.xyz/clash/proxies
 https://github.com/Kwinshadow/TelegramV2rayCollector/raw/main/sublinks/b64vmess.txt
+https://yfjc.xyz/api/v1/client/subscribe?token=7d7ad74e076f90503003175007ff3791

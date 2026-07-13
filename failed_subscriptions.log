@@ -9670,3 +9670,6 @@ https://pxypool.131433.xyz/clash/proxies	request_failed
 
 === 2026-07-13 05:02:57 - 失效订阅 (1 个) ===
 https://github.com/Kwinshadow/TelegramV2rayCollector/raw/main/sublinks/b64vmess.txt	request_failed
+
+=== 2026-07-14 05:07:05 - 失效订阅 (1 个) ===
+https://yfjc.xyz/api/v1/client/subscribe?token=7d7ad74e076f90503003175007ff3791	http_403
