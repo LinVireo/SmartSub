@@ -9734,3 +9734,18 @@ http://%3D%3D@china.mrapanel.shop:1080/#%40Napsternetvirani1	request_failed
 
 === 2026-07-17 05:12:31 - 失效订阅 (1 个) ===
 https://dz.qqqqqq.tk/8OjN	request_failed
+
+=== 2026-07-18 05:04:25 - 失效订阅 (10 个) ===
+https://github.com/xai-org/grok-build/blob/main/crates/codegen/xai-grok-pager/docs/user-guide/11-custom-models.md	http_429
+http://proxypool.zshabai.cc/#####################	http_404
+https://windowsv1.com/s/?token=ef4ebba486b282e3270d3fc8d3140f49	request_failed
+https://api.376439.xyz/ai26/e551e7684e1ea92557c7e7aebcb35644	http_403
+http://36.133.41.39:8081/sub/api/subscribe?token=d12cb25e3ae6b7a135531fff960246fd	http_500
+http://36.133.41.39:8081/sub/api/subscribe?token=f6e5671cca1ef41b6a63bf0030c58dc9	http_500
+https://api.376439.xyz/ai26/e551e7684e1ea92557c7e7aebcb35644#UA=1	http_403
+https://apps.apple.com/se/app/azaditunnel/id6776486891?l=en-GB	request_failed
+https://cdn4.telesco.pe/file/8983bce5d9.webp?token=EfcWOcaCAI04IecCLwH2lGnuIkSTvayHw4GGvHRM1ocn-uyHUmtivjZHiDNNOmr7ziwgCvoI3LzMMrtlFOm5GxKfCYhRiDhSoIMOWC_piQnjGy2uGEYB1JAcOqkeQna25lQm6vDOY7udn-IoJtccdJac1uWK1ACSozDsi83ewFXS08cMyWAog6oSoUnqN8puqjB5jeCU1nYHvvMMtUVk-nf0iZfnotTB0q5_b84Ktx0b-Xza-HC2yTrSHdKo_46eXNnxaGkdS4W2BGG9qEMgzfrP63uiMECUENjWHyg2JOaODSo654pgaPvvasltpXrhbc8oQ7cNry6yFursvIy15Q	http_500
+https://services.cu-te.cn/link?token=2332dd095d4db15747ad3cb96c4b7991	request_failed
+
+=== 2026-07-18 05:05:07 - 失效订阅 (1 个) ===
+http://proxypool.zshabai.cc/	http_404
