@@ -2,11 +2,10 @@
 
 
 https://glassdy.mavita.kdns.fr/sub/user/eyJ1IjoiY2hlbmxhbzc5MiIsImUiOjE3ODYwNzQxNzY5NTAsInMiOiJiZjFhMjU1YmM2OGYxMDA0In0?custom=1&amp;protocol=default
-https://ys.jiedianxielou.workers.dev:443
 https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
-https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
+https://ys.jiedianxielou.workers.dev:443
 https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
 https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
 https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249#
@@ -28,5 +27,4 @@ https://s.vip54.dpdns.org/nlDtrSaT
 https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
 https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f#
 https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
-https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
 https://ys.jiedianxielou.workers.dev:443
