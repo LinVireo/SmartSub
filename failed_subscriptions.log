@@ -10108,3 +10108,34 @@ http://%3D%3D@37.32.25.222:11104/#%40Napsternetvirani%20	request_failed
 === 2026-08-05 05:22:12 - 失效订阅 (2 个) ===
 https://anniu.eepzau.org/yuexia/duzhuo?token=3babbc58f4c71d34d9402a2ee5657991	http_521
 https://anniu.eepzau.org/yuexia/duzhuo?token=3babbc58f4c71d34d9402a2ee5657991#https://shaap.eepzau.org/	http_521
+
+=== 2026-08-07 08:55:31 - 失效订阅 (17 个) ===
+https://www.npmjs.com/package/@cloudflare/computer	http_403
+https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report	http_400
+https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/	http_401
+https://kaze1.aisaka-taiga.com/oosaka/dc000883bf1fe8a76441477cb956c0b2	http_403
+https://8gs25cmswahgidtj.yuji.homes	request_failed
+https://xship.2fa.cat/v1/subscribe?starlink=gNasKMlsXqU7zutumn3bHHEY	http_403
+https://vipurl.giize.com/api/download.php?type=2&amp;token=eba2e54621111d66542bcc95a36e39b6	http_400
+https://yz.yingzisub123123.com:30000/api/v1/client/subscribe?token=5d83d7587c69a9522b6003fa5934583c	http_403
+http://104.16.98.215:443/	http_400
+http://151.101.56.8:443/	request_failed
+https://www.louwangzhiyu.org/api/v1/client/subscribe?token=88da017a4aa397cc97089adeedcff51d	request_failed
+http://i.cloud--vpn.site:443/	request_failed
+http://i.cloud--vpn.site:80/	request_failed
+http://tstbot.paydar.site:80/	request_failed
+http://91.107.157.137:56352/#%F0%9F%87%BA%F0%9F%87%B8%40v2rayNG_Matsuri	request_failed
+http://%3D%3D@95.38.186.235:11109/#%40Napsternetvirani%20	request_failed
+http://62.238.43.49:7443/	request_failed
+
+=== 2026-08-07 08:56:14 - 失效订阅 (10 个) ===
+https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249	http_403
+https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1	http_403
+https://1wm6e.no-mad-world.club/link/UgyL74DWPICqJua3?clash=3&amp;extend=1	http_404
+https://study.small1999.sbs/study/xuexi/v999/hneko?token=bb79f661ff6f824614e8fa485b4fdf29	http_403
+https://12sub.yylxjichangonline.top/api/v1/client/subscribe?token=2a34d84d83f8d3c91d5ff86440fded97	request_failed
+https://v2rayse.com/fs/public/20260514/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260516/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260520/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260522/free-node-share-0800.txt	http_429
+https://v2rayse.com/fs/public/20260517/free-node-share-0800.txt	http_429
