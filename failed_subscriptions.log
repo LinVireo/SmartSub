@@ -10168,3 +10168,21 @@ https://jiang.netlify.app	request_failed
 
 === 2026-08-08 04:53:34 - 失效订阅 (1 个) ===
 https://s4.laoda666.com/s/e0af55aafe5d15f2770def5fe3a428ab	http_403
+
+=== 2026-08-09 04:42:09 - 失效订阅 (16 个) ===
+https://hk40.240104.xyz/?sni=hk40.240104.xyz#%F0%9F%87%AD%F0%9F%87%B0HK	http_400
+https://b105039.lvcha.me/?ch=105039	request_failed
+https://kv.074167.xyz/24916ad0-847d-4522-9e17-f4347dee57fd	http_429
+https://qijiavpn.salnc.kuaivpn.app/api/v1/client/subscribe?token=94eaeb7276f3d368eee63be85cf2171c	http_429
+https://qijiavpn.salnc.kuaivpn.app/api/v1/client/subscribe?token=c3fbf05d1abf805c49842dfc5eccd624	http_429
+https://qijiavpn.salnc.kuaivpn.app/api/v1/client/subscribe?token=fab2bf8478ef22fa6469b165300bcd29#	http_429
+https://qijiavpn.salnc.kuaivpn.app/api/v1/client/subscribe?token=a6df997086a97337905091c92c0a6622	http_429
+https://2ip.io/privacy/	http_503
+https://103.97.88.154:443?sni=4a8c2906c96058315dffbc2b0e7ff19b-98005bea43f9ac33.apache-iv.com#4%F0%9F%90%BB@oneclickvpnkeys	request_failed
+http://103.237.102.191:11111#%F0%9F%90%BB92@oneclickvpnkeys	http_400
+http://:None@95.211.64.139:8889#%F0%9F%90%BB98@oneclickvpnkeys	http_400
+http://:None@95.211.64.139:8888#3%F0%9F%90%BB@oneclickvpnkeys	http_400
+https://github.com/INCY-DEV/incy-platforms/releases/tag/desktop-v3.3.9	http_404
+https://tz.mmlt.top/r.php?c=G3dveTE	request_failed
+http://31.76.30.79:10808/#%40V2rayng_Fast	request_failed
+http://www.yingzi01.com/	request_failed
