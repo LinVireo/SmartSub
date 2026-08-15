@@ -10284,3 +10284,19 @@ http://jagoanssh.com/	http_403
 http://greenssh.com/	http_403
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/main/sub/list/66.txt	http_404
 https://raw.githubusercontent.com/0i0/deepme-crawler/main/crawled.repos/Z.txt	http_404
+
+=== 2026-08-16 04:32:14 - 失效订阅 (14 个) ===
+http://ekmsf4ajb8xemtqy.yuji.homes/	request_failed
+https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027	http_429
+http://%E3%80%90Z.AI/	request_failed
+http://4iykychmm5hpdbxw.yuji.homes	request_failed
+http://4iykychmm5hpdbxw.yuji.homes/	request_failed
+https://145zz.acyunsa.sbs/api/v1/client/subscribe?token=f8c0fe887a7bb55577b13507c6fdf18e	http_403
+https://windowsv1.com/s/?token=fc1deabe522293afd7cdefc9bc71981d	request_failed
+https://103.82.101.44:443?sni=f3a61d8406d537345747f99f8a281007-3f754ed5da1bba09.apache-iv.com#%E2%9A%9B%EF%B8%8F55@oneclickvpnkeys	request_failed
+https://freeuser1:freeuser1@br4-tr.freeconnect.link:9251?sni=br4-tr.freeconnect.link#%E2%9A%9B%EF%B8%8F84@oneclickvpnkeys	http_400
+https://www.instagram.com/reel/DUIRc4aCkEz/?igsh=NTc4MTIwNjQ2YQ==	http_429
+http://1.3.23.0/	request_failed
+http://%3D%3D@95.38.167.78:9147/#%40Napsternetvirani%20	request_failed
+http://%3D%3D@94.101.181.25:9147/#%40Napsternetvirani%20	request_failed
+https://r.saraf.app/s/hgrd005	request_failed
