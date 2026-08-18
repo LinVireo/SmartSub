@@ -10342,3 +10342,23 @@ http://114.80.150.222/	request_failed
 
 === 2026-08-18 04:37:31 - 失效订阅 (1 个) ===
 https://eggyun.cc/study/v3/eggcloud?token=a9716b5ae9184505f2de144228e9bc1c	http_403
+
+=== 2026-08-19 04:33:40 - 失效订阅 (15 个) ===
+https://kaze1.aisaka-taiga.com/oosaka/fef62e2e66bf3692d6b2301ac352e59e	http_403
+https://is.domainforsub.work/sub/f19186636cf0adc0	http_403
+https://d105039.lvcha.me/?ch=105039	request_failed
+https://d.koo1.de5.net/biying/5c388bc5ec42a1e602b0dbfe226d30dd	http_403
+https://api.qihangj.shop/api/v1/client/subscribe?token=617476d8b37b1bb7d23fc835241a1492	http_403
+https://api.sushi3.cloud/sushi/6ad622be288cabb665e98824670d17d7	http_403
+https://reference-url-citation.invalid/3	request_failed
+http://xxxxx.onion/	request_failed
+https://45.134.9.41:443?sni=991cc80f13caf81d3426ddebb2da7f49-240d6105b6ef86f0.apache-iv.com#1%F0%9F%8E%88@oneclickvpnkeys	request_failed
+https://cdn4.telesco.pe/file/8983bce5d9.webp?token=fDkRcV9K18_eKP8exRGw8ij1dka0Xeld6j4vGN4_nRZZIjYBwXY_MsLrYoSrvL9jok2YCKpnEUC3yz4jdjnKTLAXmhbn0hjeLid2YkBupjOK0gjwb5FUSzWbouCdb7H_Py9O9heilpnWA004F4sbxeAKUKW_IsA06fz7Ip-PBtyL4pFrhY7SQVR0CAllfE1YSbPIhk2E13nNm8-oVFN-RTm9NpBaVZDLpBNapHeXYMfo5oJBMo96IWcWVJj-4M82w-qZjLgcjOKk_dhpY5ZjOZGyIxZntTpxHi8DkPJrd4F6q1-50YhfZpixFCvIs5x8bMqvGf55tmC6DmxQiQ7iEg	http_500
+https://www.applnn.com/article/62786	request_failed
+https://kitty.work/#/register?code=oCI1jxas	request_failed
+https://pikayun.com/#/register?code=lzgAYL3E	request_failed
+https://pikayun.com/	request_failed
+https://idfree.top/	request_failed
+
+=== 2026-08-19 04:34:17 - 失效订阅 (1 个) ===
+https://api.kuke-sub.com/s/eca8cd2495356f044961e82b7411aba7	request_failed
