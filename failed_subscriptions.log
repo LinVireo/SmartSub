@@ -10362,3 +10362,29 @@ https://idfree.top/	request_failed
 
 === 2026-08-19 04:34:17 - 失效订阅 (1 个) ===
 https://api.kuke-sub.com/s/eca8cd2495356f044961e82b7411aba7	request_failed
+
+=== 2026-08-20 04:38:06 - 失效订阅 (16 个) ===
+http://gboard.dev/s/2e9b7b0390fc4c37c0a30ef0b237aaa3	http_403
+https://svip.ttyun.eu.org/x/VejDYtdryS3W?t=auto	http_404
+http://UTC%EF%BC%8CGitHub.com/	request_failed
+http://%E3%80%90GitHub.com/	request_failed
+https://sus.clodom.link/message/api/sourlist/fa46769fc27da043303c7d5ad3c0771b	http_403
+http://gboard.dev/s/0f9fe17a3cf968ebd3ee2c3d84b724be	http_403
+https://tgz.heidong.cyou/i/HfcNIZbC	http_404
+https://kaze1.aisaka-taiga.com/oosaka/e198094e3e8fc21de1ebcc2491d7c992	http_403
+https://b105062.lvcha.me/?ch=105062	request_failed
+https://reference-url-citation.invalid/4	request_failed
+https://www.reddit.com/r/GTA6unmoderated/comments/1vso75h/flash_cyberleek_has_the_full_developmental_built/	http_403
+https://www.reddit.com/r/GTA6unmoderated/comments/1vso75h/flash_cyberleek_has_the_full_developmental_built/?utm_source=chatgpt.com	http_403
+https://search.brave.com/	http_429
+https://apps.apple.com/app/apple-store/id897446215	request_failed
+https://apps.apple.com/app/id6450534064	request_failed
+https://x.com/mr_sialegend/status/2089354319548010499	request_failed
+
+=== 2026-08-20 04:38:41 - 失效订阅 (6 个) ===
+https://v2rayse.com/fs/public/20260524/free-node-share-2000.txt	http_429
+https://v2rayse.com/fs/public/20260529/z87bfls2.txt	http_429
+https://v2rayse.com/fs/public/20260530/free-node-share-2000.txt	http_429
+https://nodebuf.com/files/public/cmstm0gqy42uzr55wc807r1pl/download	request_failed
+https://v2rayse.com/fs/public/20260423/free-node-share-2000.txt	request_failed
+https://v2rayse.com/fs/public/20260517/free-node-share-2000.txt	request_failed
