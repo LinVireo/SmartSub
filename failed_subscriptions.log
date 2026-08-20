@@ -10388,3 +10388,19 @@ https://v2rayse.com/fs/public/20260530/free-node-share-2000.txt	http_429
 https://nodebuf.com/files/public/cmstm0gqy42uzr55wc807r1pl/download	request_failed
 https://v2rayse.com/fs/public/20260423/free-node-share-2000.txt	request_failed
 https://v2rayse.com/fs/public/20260517/free-node-share-2000.txt	request_failed
+
+=== 2026-08-21 04:38:41 - 失效订阅 (14 个) ===
+http://gboard.dev/s/961f5a32ae283ef209071aad59244f31	http_404
+http://gboard.dev/s/ffd994522feb02e76bf7ee05dfc57b71	http_404
+http://gboard.dev/s/14580c9c3b8ec5f986254ce2e39e6dfd	http_404
+https://gboard.dev/#/register	http_403
+https://e105039.lvcha.me/?ch=105039	request_failed
+https://gboard.dev/	http_403
+https://sso.yuetoto.com/api/v2/avatar/2e9dd6b1d15732ae1c602c7c2205e41b	http_403
+http://gboard.dev/s/14580c9c3b8ec5f986254ce2e39e6dfd#	http_404
+http://gboard.dev/s/ffd994522feb02e76bf7ee05dfc57b71#	http_404
+http://gboard.dev/s/3e70f1e905277f123eadbd37037cec59#	http_404
+http://gboard.dev/s/961f5a32ae283ef209071aad59244f31#	http_404
+https://6f243398.neworld.digital/link/re8lWPtcdeuitFjiiM6qU5k0DSacEJQxV5bJ2ZSkafXE8SAikcXAwPo?sub=3	http_429
+https://cdn4.telesco.pe/file/5e35f0f416.mp4?token=mHZPjN5Yih6ugoy_faBD5Zh8b5sjnFp1VzeBhVWeDDspdQhMGtrpcvPBNBgdSkKB7SDwSPVnCmCeggu-d7ycGF2N_y6SZrWzjPcGzjUGNMNPjmZwQj5tW96zXXh4StkKMXAot8w6W46gqT28QaIe3_WwHJRO9mqsl3CfX-9p5jSWyaLSHBj3uqkVasahxJ3RT103YGfJB6TVzU0cDHo8lbTnkpR_cxA92SyCSTyh45iimKN9GQWqIbMNa9PA2RlF2y4cPKgR-MIfgB5CUfc5M84lrqSfRxMHbDrlmmCp5j5JLn7FSnBqQLzRw7q4QJbJVzfILpw3shYan-fPUCSPew	http_500
+https://cdn4.telesco.pe/file/AuIxmgCGeeszfA8jCh4gdwm4TxOLc1xAyT85hdXyCBu_d_IJNm5Gcrdyjy0-lRn6lSfzoLlIFp-SD0D-SLi1k9WuVQdrfD_KEYNMwg8Hd6f_PdvDRJX1aUwOxz53dx1VE6HIMQIi3xYuBzcMXmErk0xUEC7i_JsV4oPyPxC8ejaBLpNW9R5NCR2fSuBLwGsOwi0jkKSEz6KzOLwLQ0_9zAFRptL7lbMa7Tu6OqDuNvoYkLot73rlcAuVzNmplhUQ5taWSL8oIJCLFI1zqOTWMCQIDHbKDGSo36P_fd577LV_kCzdxOGeyyLLhMPyLi_L5FPo7Hm9TZSS0XvaQckziA	http_500
