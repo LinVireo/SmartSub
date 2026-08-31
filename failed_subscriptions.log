@@ -10890,3 +10890,17 @@ https://github.com/free18/v2ray/blob/5adfd6c5/vpn.md?plain=1#L1-L2	http_429
 https://pvsmi.no-mad-sub.one/link/pGx0WM9WgVZjILka?clash=3&amp;extend=1	http_404
 https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f	http_500
 https://jianhancloud.cn/3576138627/%E8%8F%9C%E9%B8%9F%E8%8A%82%E7%82%B9.txt	request_failed
+
+=== 2026-09-01 07:44:25 - 失效订阅 (9 个) ===
+https://subnew.syq.tw/sub/046fb73af9995b79fe4bfc3ab79582ae#	http_403
+https://www.pclnn.com/article/43600	http_404
+https://subnew.syq.tw/sub/046fb73af9995b79fe4bfc3ab79582ae	http_403
+https://sansuy.site/?path=register&amp;code=ToIrdaji	request_failed
+https://sansuy.site?path=register&amp;code=ToIrdaji	request_failed
+https://cdn4.telesco.pe/file/3386912fe9.mp4?token=AtVfzmI9tYjLI4TKC7NXR4T0x-mzbcAMLZNHxoCVHjjTjWW6frIUYdoJMDAu4dTtRUpK--wzCTQ4Yfaf6GUBu7cRiwcHLGnJLCf1IWyxHehtknd2v4tVd-heSYCVbSL6fORfmryDm0cAB-ALIY__Mt4pvOBUlgeMcxiAK0R8GNiqShS0QDXXTex_75a2qpXU07QC7J5ZyMc24_XUMmsvOef3RaASpzfg6Qqey8mwuuI9xRScjH91fdHPDnRCD26SlT2UMT48-qIE71azUFKZfzsssw_ZzOqAsNtvhgDx5yFNF-FXyMDAex4AzJvSpJ69KyxocMstJKNA2oyPH0bxLA	http_500
+https://cdn4.telesco.pe/file/1a905a7979.mp4?token=G1txq7Q1HbOSKcFtfFknVDYJ9iaB-LrBlsvbBDbdID4KMDRjtgJUPpXVpdc3BBpO3aaM-W7tKUGe2XCbg5dYKaYBewVYee5RCwJVpYfuQonOS9M7OTuJNn_-5t45Vvl7JeoRYXk0UYRsgN56vF7PA7T7SguEMPkG1dhO5XxAO6A9Yo7xWDWIDeW-a3IphcuTt9qrbGMrIgD2Sasu2HHqYn75WDguTGGfPI_BBkzlyUGLVkYUA1dbGGnBZceenJPzJY4axZdB176O51E6ybsoW7INV6JPVwMU9mgU2NAPFXdFe22Y5BHmC57rUfZkEa7F4zlUL86PTgMFDXiLOUDc3Q	http_500
+https://47.242.128.61:5000/api/v1/client/subscribe?token=edf98d17984e4725a635a8f20147c1d5	request_failed
+https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml	http_404
+
+=== 2026-09-01 07:44:50 - 失效订阅 (1 个) ===
+https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray	http_404
