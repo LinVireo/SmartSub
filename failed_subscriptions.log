@@ -10958,3 +10958,23 @@ http://178.62.83.124:32766#%F0%9F%91%9D13@oneclickvpnkeys	request_failed
 
 === 2026-09-03 06:33:01 - 失效订阅 (1 个) ===
 https://liangxin.xyz/api/v1/liangxin?OwO=8fa982b813ef84f58496d16c5d14b3d2	http_403
+
+=== 2026-09-04 06:30:19 - 失效订阅 (14 个) ===
+https://468135.xueshanlink.com/api/xueshanlink/fd1f4721800ab4cd47501706c934aa37	http_403
+https://kipfel.youzizi.top/kipfel?token=6f5621e8b62b1f7126135176795c24be	http_504
+https://sub02.xacg.top/1001/Token=449-V00HsoB7NL	http_404
+https://xn--frxs53apxw.lol/#/register?code=WTP2678R	request_failed
+https://sus.clodom.link/message/api/sourlist/24e6547b4d21b069be47d206c30a36e4	http_403
+https://vpn.yuzhe.cc.cd/s/1417680c2665f6f647af9e95dbe3a3c7	request_failed
+https://biubiux.online/#/register?code=O83AGpop	request_failed
+https://wjhcrdja.shop/fa/affiliates/?bt	http_403
+https://wjhcrdja.shop/fa/affiliates/?btag=914641_l303106	http_403
+http://178.217.12.232:6669#%E2%9B%91%EF%B8%8F66@oneclickvpnkeys	http_401
+http://87.215.14.228:65432#%E2%9B%91%EF%B8%8F65@oneclickvpnkeys	http_401
+http://65.109.179.182:7676#%E2%9B%91%EF%B8%8F59@oneclickvpnkeys	http_400
+http://45.192.105.250/	request_failed
+https://vpn.yuzhe.cc.cd/s/1417680c2665f6f647af9e95dbe3a3c7#45.192.105.250ASN401696	request_failed
+
+=== 2026-09-04 06:30:54 - 失效订阅 (2 个) ===
+https://468135.xueshanlink.com/api/xueshanlink/fd1f4721800ab4cd47501706c934aa37#	http_403
+https://v1.mk/1bR3Adx	http_502
