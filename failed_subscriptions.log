@@ -11164,3 +11164,14 @@ https://mxlsub.me/newfull	request_failed
 
 === 2026-09-12 06:28:08 - 失效订阅 (1 个) ===
 https://s.vip54.dpdns.org/nlDtrSaT	request_failed
+
+=== 2026-09-13 06:11:09 - 失效订阅 (9 个) ===
+http://38.77.133.69:8080/a8eb4f01e609e95d3dba34b87d1a9523.txt	http_404
+http://38.77.133.69:8080/a8eb4f01e609e95d3dba34b87d1a9523.yaml	http_404
+https://sansuyun.top	request_failed
+https://sansuyun.top/	request_failed
+https://sus.clodom.link/message/api/sourlist/f05c8df60cf21276de48255b0e73e27b	http_403
+https://api.qihangj.shop/api/v1/client/subscribe?token=9bdec6da0624caee5720f6a55b724905	http_403
+https://cdn4.telesco.pe/file/byHLABO_653_NkFfNlJ4499c7njsy1J379u-qHpkrmo8ev0yZXwcnFYy5IhyJj87jWRhLVxGjQ-8STLXMkOM441wtWB56F-CnLox6h1O5DvBCEkGLVQkbEpPFX-snZP-ndFx6bL2Bh_bKHz6RRVPpPnKmew70UqPgPQxNBNrXd8qoHVEMzlH9jQRxuymwdZKoQE74g4ioMa4nyuWUM1dFo-YeDKVdAit_TnmBNMeUxLe5zn96WxWcwrXpd0R0l7LHjfy22IYafsXoYeLxpAi5yCh5kU0syZj0ER4Gc7j7D7KVka84z6ej-CBtGkzeM4q7RHdFBLHQQVcF9JMEHjZsg	http_500
+https://cdn4.telesco.pe/file/0ca51ab5b4.mp4?token=OjkFc_xJTb5T05Tmb3O8CtQboXClJzoOk0unNLXZgsanybhbXCtRHLbRU62E2gMK08Z5YISK4m9l2DO3n4owYi-Qc9CZgYOly3n8mCVmxMZExin2MgpTKT1ST2yQULaKEhRkcymkXOrD3gD9a98o4zmMENvHx8Sdmg4Bnfa_PRLvFyKSaPViNpkmYIHN7VKNEjtkgMdrTGWx4ZpWeDYdLFymU0FdpY2WqlZfRpRVlT2FnqOUceKnQSWAqVJ8ZDd03vzT7AARP983-Zy89LQkEfM79QNWs0ljMVlhoVHAtx1EQzGSmJWwkWdcxCSjGwkJuM5TUw5xMrcHOAOYSi5YaQ	http_500
+http://3.12.34.194/clash2.yaml	request_failed
