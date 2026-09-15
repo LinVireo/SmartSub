@@ -1,9 +1,13 @@
 -- play_list --
 
 
+http://82.29.71.160:8088/
 https://uwu.femboy67.dpdns.org/?url=freenodes
-https://mifa.world/orion
+https://sub1.gsafevpn.com/957baaca8fc/ce036c959eb30960f15a51d979511d44
+https://sub1.gsafevpn.com/957baaca8fc/ce036c959eb30960f15a51d979511d44?flag=clash
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
+https://ys.jiedianxielou.workers.dev:443
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://xzjb8.no-mad-world.club/link/as53HsDGAEpvUMpc?clash=3&amp;extend=11
 https://7m8tk.no-mad-world.club/link/YHTw7AZifDT4Jeqc?clash=3
@@ -11,8 +15,6 @@ https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
 https://pcq7y.no-mad-world.club/link/Lnhw8YmdYo7on5BF?clash=3
 https://mlshu.top/s/013d13ca43f6be1f279ab2a6133aad7b
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-https://ys.jiedianxielou.workers.dev:443
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
@@ -23,6 +25,7 @@ https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.y
 -- sub_list --
 
 
+http://82.29.71.160:8088/
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
@@ -31,11 +34,12 @@ https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.y
 https://7m8tk.no-mad-world.club/link/YHTw7AZifDT4Jeqc?clash=3
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-https://mifa.world/orion
 https://mlshu.top/s/013d13ca43f6be1f279ab2a6133aad7b
 https://pcq7y.no-mad-world.club/link/Lnhw8YmdYo7on5BF?clash=3
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
+https://sub1.gsafevpn.com/957baaca8fc/ce036c959eb30960f15a51d979511d44
+https://sub1.gsafevpn.com/957baaca8fc/ce036c959eb30960f15a51d979511d44?flag=clash
 https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
 https://uwu.femboy67.dpdns.org/?url=freenodes
 https://xzjb8.no-mad-world.club/link/as53HsDGAEpvUMpc?clash=3&amp;extend=11
