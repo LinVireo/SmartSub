@@ -11348,3 +11348,14 @@ http://data.tuik.gov.tr/	request_failed
 
 === 2026-09-19 06:29:18 - 失效订阅 (1 个) ===
 https://liangxin.xyz/api/v1/liangxin?OwO=82bf385b563bb02b6a830d91c7d771f8	http_403
+
+=== 2026-09-20 06:18:55 - 失效订阅 (9 个) ===
+https://3x.lbruh.xyz:2096/api/all_in_one	request_failed
+https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.277	http_403
+https://sus.clodom.link/message/api/sourlist/11d0fde181af461da5613475328dfd9f	http_403
+https://iz.ru/881429/2019-05-24/fsb-i-minoborony-odobrili-ispolzovanie-rossiiskogo-softa	http_403
+https://cdn4.telesco.pe/file/oLqHdbSjPxhZD_jeJGYiiaP5L_Yg3bXq3TEdP1j8zubc47f6D_kHwfx1E95noxy52p3Qkq4E1HkAH02qy_RJw7yN9Xs_6XWW15D1JN8F2Asnvki1O1Z5KKSVWzGM8T7aRvqgGLRdvRbwSJ4j0PIv22Qcg_S_i6GBaMPQWYUHDslrpUIsyCRA3Wxw5cULgKocpdPw44RPCm6xlCk9si9QvmS538KoPAzHsgasW05gGPup8_qLaB8Iwm2jVUzVLsgnYH19kAzj9mSYJ76wgV28_2MX88K3AjAWrKB4p2Q879GMNCDwhdIxyzGmFbo-AleeliOOoEd3uLw8BRWn8xhAPw	http_500
+http://3.5.0.3/	request_failed
+http://apps.apple.com/us/app/susi-connect/id6759531907	request_failed
+http://apps.apple.com/app/shadowrocket/id932747118	request_failed
+http://0.9.4.12/	request_failed
