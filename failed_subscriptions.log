@@ -11359,3 +11359,27 @@ http://3.5.0.3/	request_failed
 http://apps.apple.com/us/app/susi-connect/id6759531907	request_failed
 http://apps.apple.com/app/shadowrocket/id932747118	request_failed
 http://0.9.4.12/	request_failed
+
+=== 2026-09-21 06:23:19 - 失效订阅 (18 个) ===
+https://codeberg.org/basebrowserproject	http_403
+https://web.archive.org/web/20260903110250id_/https://www.trae.ai/pricing	http_429
+https://vmess.fxxk.dedyn.io/sub?cc=BBs7&amp;host=serv00s07.wangdaju.pp.ua&amp;uuid=d36c4d9f-31c4-45f1-8c64-102a6142001e&amp;path=vmessed&amp;alterid=0&amp;security=auto	http_400
+https://cdn4.telesco.pe/file/9d437f672c.mp4?token=SVCwxpLbTF8w1QaGDYymO4d0hlNG6A5Zz2Yp5okrPuE4HsB5Bmg8VV9aBOkLWSiMLunz6iOfCvkcZpOBLXUiACUZV-MM-tGdoQiy-O89968xDvR4dMJo5gVnhjvkLmYwvTpVzbc6TFxkkBe8P3bLLv2niq1Z-KiVchkHfLc05P2X__7S9b9y5aH0E3MA27SQE7qZoUnTm-XjY4UplukefdvE1YioPApa2XwwDU5MvbmKeXI80kWcz_Wbp_1IB5K4OlIJRvHUG8XLANx-ZgzfQ1IKfqkO17_Hi6h30OHMKQvV0yvbXhBYrPDEkWB_B3uGV9iXCiUEVvrrswbnEUvHrA	http_500
+https://cdn4.telesco.pe/file/cLsGyt2FWAXPgYrUTUqsZKM_JvWkr88hMPxv7TQJsTRGGRDGv_H0HhL75fEIrI_cDNhaOenXWd07TkYqw4WC5d4BY9JUL0S4vuMcwCPCpgGuun-PrtJIKpSQ7DrSkty9JXe3IKZpBv_ZwFaNLKpqGRINoE875doLdS_Vqp5rC2f9u77bVzPXHgSdxIhqbytQ705KJHteWFKxw_K0hUfnNXWhHKzUdp4BQFLFtt1KFjghMtVlrACaOpSZunMoYuCq21DuE1AwzapdlFkBmnl0XtviyeYl5zcqXMUcDcMvFOPlr5eV8p_80zNXdYQIKkL1WvQPVtRxrs8eE5fU8gOJvg	http_500
+http://45.159.0.194:5050#%F0%9F%9A%A890@oneclickvpnkeys	http_401
+http://176.111.37.216:39811#%F0%9F%9A%A894@oneclickvpnkeys	http_400
+http://45.132.252.25:49156#%F0%9F%9A%A8100@oneclickvpnkeys	http_400
+http://195.158.232.253:8998#%F0%9F%9A%A889@oneclickvpnkeys	http_401
+http://91.228.89.45:7#%F0%9F%9A%A844@oneclickvpnkeys	http_401
+http://178.217.12.89:6669#%F0%9F%9A%A899@oneclickvpnkeys	http_401
+http://88.87.6.135:3030#%F0%9F%9A%A872@oneclickvpnkeys	http_401
+https://mihomo-fa.ai.studio/api/sub?id=zlae3yv1	http_404
+http://apps.apple.com/app/v2box-v2ray-client/id6446814690	request_failed
+http://apps.apple.com/app/id6757075299	request_failed
+http://apps.apple.com/app/id1616105820	request_failed
+http://apps.apple.com/app/id6794257189	request_failed
+http://apps.apple.com/us/app/everywhere-proxy/id6766003090	request_failed
+
+=== 2026-09-21 06:24:05 - 失效订阅 (2 个) ===
+http://198.200.42.129:8080/mysub-a7f3k9x2.yaml	request_failed
+https://xn--kivt58h.lol/s/65725a701c52c5dfb7be2e61a367dd11	http_403
