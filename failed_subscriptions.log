@@ -11418,3 +11418,24 @@ http://apps.apple.com/us/app/bamboo-dragonfly/id6473621095	request_failed
 http://apps.apple.com/app/id6785326793	request_failed
 http://apps.apple.com/app/id6760091330	request_failed
 https://157.22.183.72:443#2%F0%9F%A5%8E@oneclickvpnkeys	request_failed
+
+=== 2026-09-24 06:53:57 - 失效订阅 (16 个) ===
+http://df18r.top/	request_failed
+http://%E5%AF%BC%E8%88%AA%E9%A1%B5%EF%BC%9Awww.%E5%8F%AF%E4%B9%90%E4%BA%91.net/	request_failed
+https://su.gwzxwk.com/api/v1/client/subscribe?token=e5b6daf5bad085c7da5a035cb20e2922	http_403
+http://194.61.232.13:8095#%F0%9F%9B%9E88@oneclickvpnkeys	http_401
+http://185.21.156.73:4080#%F0%9F%9B%9E44@oneclickvpnkeys	http_400
+http://178.217.12.101:6669#%F0%9F%9B%9E43@oneclickvpnkeys	http_401
+http://45.8.88.156:8095#%F0%9F%9B%9E78@oneclickvpnkeys	http_401
+http://109.224.242.133:8585#%F0%9F%9B%9E98@oneclickvpnkeys	http_401
+http://193.187.107.120:8095#%F0%9F%9B%9E85@oneclickvpnkeys	http_401
+http://109.225.40.145:58080#%F0%9F%9B%9E73@oneclickvpnkeys	http_401
+http://193.19.190.59:8095#%F0%9F%9B%9E92@oneclickvpnkeys	http_401
+http://85.105.160.32:9090#%F0%9F%9B%9E79@oneclickvpnkeys	http_401
+https://189.24.64.91:33333/api/v1/client/subscribe?token=1bf94a40a46cd453d133e3af1332caa8	request_failed
+https://189.24.64.91:33333/api/v1/client/subscribe?token=cf43959112df95b5cab4cdd39760807f	request_failed
+http://46.59.120.87:81#%F0%9F%9B%9E63@oneclickvpnkeys	http_401
+https://ooooooo.vvvv.ee/O	request_failed
+
+=== 2026-09-24 06:54:42 - 失效订阅 (1 个) ===
+https://dash.dmitai.com/newlook/520c1972542fc213584814b8a134e0ca	http_403
