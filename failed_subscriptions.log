@@ -11498,3 +11498,19 @@ https://us1.zhuk.dpdns.org/YouTube/aB7k12/v.txt	request_failed
 https://us1.zhuk.dpdns.org/YouTube/fbC31/v.txt	request_failed
 https://us1.zhuk.dpdns.org/YouTube/dpQ2x/v.txt	request_failed
 https://us1.zhuk.dpdns.org/YouTube/fbC11/v.txt	request_failed
+
+=== 2026-09-27 06:39:53 - 失效订阅 (11 个) ===
+http://124.156.230.31:8080/sub_a8f3k2.yaml	request_failed
+https://i105062.lvcha.me/?ch=105062	request_failed
+http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/	request_failed
+http://darkzqtmbdeauwq5mzcmgeeuhet42fhfjj4p5wbak3ofx2yqgecoeqyd.onion/	request_failed
+http://74.82.196.74/clash-d27e13d630c617e0665aa2e4.yaml	request_failed
+http://141.11.138.132:8080/33a2ae5fa3566e7f4d16e539383bb214.yaml	request_failed
+http://47.74.25.186/163591d97667194343379053d62f6b523cfeb6a945e253a2.yaml	request_failed
+http://173.205.202.241:8181#2%F0%9F%90%B8@oneclickvpnkeys	http_401
+http://188.161.150.217:9090#%F0%9F%90%B887@oneclickvpnkeys	http_401
+https://cdn4.telesco.pe/file/WW9v4x2g39g_nnCCXfSI_ZCxUvDvbd3h1uN7N9RnubFhsBVqaj-zxqBcq7mt_VN4Ivn62dYnHgmrj4s8VgvDc0FAeYt29EpZXG-2H26AsqLhG6rTC3CDTzcYUA4iLhe5TANyeCmTmGwlAfpqx97c7GGYTB48KFW2i2Vn5vDpiIKt750de7aj_vQOgnH4Fgc0ywDAqwbNBV_OXDc_n6KEOMgsfKQBJQCe3_22XYVgs9dVOZb0CSgZiQ-rnW1IWwiLiPMtfN-qhVd5ZvI9b865lKUohnNd9FbSQpyeN5WQxBW4k_t4_huHU3HSSqhnaqO8ZOAVTuXLsIJyuT9Ln_ZXZw	http_500
+https://cdn4.telesco.pe/file/fd007ee273.mp4?token=JmDVAP_Jbn6jWnkQY6K1P4ddL7HkJWt4kh-ytlSmtEhGIgwY-fLeJrvA3Yjt08v9DNG__9VbPKRTB6-njry2EgEXPRO7pNemuNeGGCufUN5BhwBTZzysLa7_JOamMCwy07jwOfatZXNxsND4UGGEcUjJ4s0c5NZc7M9NoMUVBBIGGGHZR4E4ngDG2nsKGz46-VG8VePqCKMV2Y89N2NNN9OvvJsTDa9QWZY1NqfnJoJznFYAKkuQUW9pwKeCkbibgG8WjClS8CDrcJRl7FWL55EvPLcHSTtVS6GE6xlJxt82pec6KGf_KHskvfDNVnv8w8mbERUUTb0H7cRDkR-fwUZ_0gKrM_xZpdRHR9SSWL3ODczSpwjtkWXzdOdCcNX4u6F9rDLqyISBN4-f1URnNp2xPXDK7PNK2BSGABaqW38s1WAsdWQuq3aRBHPmoCMF4WPrPS7TDSVH_7AHTF9TjyQQ2SacuBXKmphwLHfOS49RzIRoN8c1e90x-gE3aPxYkTPQyu8cV52qCfZ7D7dcQTBf2k58FsWIBgqiOChDfKstbe6MrN7MWF8g1lw-fUJlwGNv6VMOByGaHHuriIdCEt6Vc6LQ6NUX6gsFib1OD7NNg04ukaAVntUF-9k4evLQViOBMwzBPTrZ-HvKSyxIdz2TOgP7HPHFRmMnlnPvLPA	http_500
+
+=== 2026-09-27 06:40:35 - 失效订阅 (1 个) ===
+https://liangxin.xyz/api/v1/liangxin?OwO=7fd6a40e669d7b73a6318b276c0f1062	http_403
