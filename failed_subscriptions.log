@@ -11550,3 +11550,16 @@ https://cdn4.telesco.pe/file/MUFTkx4yOfXiR7eLEEMGWuk7dMj-Th1O5hOVTqKsCxjanDHzLyE
 https://clash.leozai.com/	request_failed
 https://clash.leozai.com	request_failed
 http://192.255.151.112:2080/personal-clash-e87d6a5cf302fcbe18978c4119d76cefbd85531ab7e0bd0781e9a9fec49e4828.yaml	request_failed
+
+=== 2026-09-30 07:38:06 - 失效订阅 (7 个) ===
+http://107.167.18.122:443#%F0%9F%92%A187@oneclickvpnkeys	http_403
+http://lzpaxacs.shop/registration?tag=d_699225m_33771c_	http_203
+https://fan.973511.xyz:443#%F0%9F%92%A175@oneclickvpnkeys	http_400
+https://189.24.64.91:33333/api/v1/client/subscribe?token=c001630b44b444c16060d2e3005bbba1	request_failed
+https://189.24.64.91:33333/api/v1/client/subscribe?token=b8d6424c3744287240cb3b63e3c55a51	request_failed
+https://189.24.64.91:33333/api/v1/client/subscribe?token=b5c6b600cd9b5800c68b4f8de3d87e38	request_failed
+https://189.24.64.91:33333/api/v1/client/subscribe?token=2f443340c96ee3930541982a00d69bec	request_failed
+
+=== 2026-09-30 07:38:40 - 失效订阅 (2 个) ===
+https://l1wn2.no-mad-world.club/link/ZMOoNEXC8crj3cYe?clash=3&amp;extend=1	http_404
+https://wzyun.oadvan.cn/api/v1/client/subscribe?token=6c0a065300d9e40c124b462d95340267	request_failed
