@@ -10,6 +10,7 @@ clash订阅:
 - http://jms.937745389.xyz:8080
 - http://jms.937745389.xyz:8080/
 - http://jp.15181518.xyz
+- http://jp.15181518.xyz#sstp://vpn:vpn@vpn524454050.opengw.net:1701
 - http://sub.shkola112.site
 - http://sub.shkola112.site/
 - http://sub.shkola112.site:8080
@@ -175,13 +176,15 @@ clash订阅:
 - https://nodebuf.com/files/public/cmuscbddo6fr8oh5wmebrc71q/download
 - https://nodebuf.com/files/public/cmut21rlg6rxroh5wpc6z02jq/download
 - https://nodebuf.com/files/public/cmutrqvgl71whoh5w9e5awd1s/download
+- https://nodebuf.com/files/public/cmuuhhj8e7clyoh5wyqvhwjwg/download
+- https://nodebuf.com/files/public/cmuv76q8o7npkoh5wekjzgcnt/download
+- https://nodebuf.com/files/public/cmuvwx8t27x2qoh5w1ammstnq/download
 - https://pcq7y.no-mad-world.club/link/Lnhw8YmdYo7on5BF?clash=3
 - https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/light/clash.yaml
 - https://raw.githubusercontent.com/69z1zfw2fly/fly/main/2.yaml
 - https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/ndnode.yaml
 - https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
 - https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc3.yaml
-- https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
 - https://raw.githubusercontent.com/YasserDivaR/pr0xy/main/winformClash.yaml
 - https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
 - https://raw.githubusercontent.com/anorika77/v2ray-subscribe/main/README.md
@@ -333,7 +336,7 @@ v2订阅:
 - https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840
 - https://korp-proxy.ru/api/sub/788b26a6-a99d-4391-aadb-ea7408e5a000/?_t=1790572225567%23KorpVPN?providerid=MO7awQCE
 - https://ly.ba000.cc/s/d194066d5d4e228a21aa7257554a69e9
-- https://mifa.world/quasar
+- https://mifa.world/nitrino
 - https://mlshu.com/api/v1/client/subscribe?token=013d13ca43f6be1f279ab2a6133aad7b
 - https://mlshu.top/s/013d13ca43f6be1f279ab2a6133aad7b
 - https://niaodi.top/niao?token=8cf28a28d8ed739b8e9bc5489a73a75b
@@ -439,6 +442,9 @@ v2订阅:
 - https://nodebuf.com/files/public/cmuscbddm6fr6oh5woioyl0u4/download
 - https://nodebuf.com/files/public/cmut21rm36rxsoh5wftp0u1x7/download
 - https://nodebuf.com/files/public/cmutrqvgi71wfoh5ws2vmjvtb/download
+- https://nodebuf.com/files/public/cmuuhhjjk7cm3oh5wfp5dc64c/download
+- https://nodebuf.com/files/public/cmuv76puj7nphoh5wmtzqk1t2/download
+- https://nodebuf.com/files/public/cmuvwx8pz7x2ooh5wv8csbyjk/download
 - https://popcornlab.de/api/v1/miaomiao?OuO=0eae8121bdf685aa47a2015e13af3701
 - https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/HighSpeed.txt
 - https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet_iOS.txt
@@ -550,47 +556,43 @@ v2订阅:
 - https://vless.lrdxw.club/5dc15e15-f285-4a9d-959b-0e4fbdd77b63
 - https://w.12.kg/6/b7bc52ae97ab73735940b6eae128c422
 - https://www.edeyuan.com/s/d87abd1c08c321062891d9487aeba5fc
-- https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456
 - https://www.youzilite.help/kipfel?token=2b63b62fc7fd2838c7addf52fe52dc48
 - https://www.youzilite.help/kipfel?token=2b63b62fc7fd2838c7addf52fe52dc48#
 - https://xn--kivt58h.lol/s/2695ba79bcf8b4777ccff509690f0f22
 - https://ymjc.cfd/api/v1/client/subscribe?token=0ddddf3a3d06c34189054704925df22e
 - https://ymjc.cfd/api/v1/client/subscribe?token=34ca2387e001b5e579a34f76187d63dd
-- https://ymjc.cfd/api/v1/client/subscribe?token=4d609398a8f81c41a64d4579ada1515c
 - https://yu.11144444.xyz/x/hXggqYK
 - https://yy.77777.bond/x/sSEpDhL
 开心玩耍:
-- 可用流量:10.09 GB                    https://yz6on.no-mad-world.club/link/2RftO5z9yJiPkPVN?clash=3&amp;extend=1
 - 可用流量:100.0 GB                    http://sub.shkola112.site
 - 可用流量:100.0 GB                    http://sub.shkola112.site/
 - 可用流量:100.0 GB                    http://sub.shkola112.site:8080
 - 可用流量:100.0 GB                    http://sub.shkola112.site:8080/
 - 可用流量:101373.0 GB                    https://sub.femboy.us.ci/?url=freenodes
-- 可用流量:1024.0 GB                    https://mifa.world/quasar
+- 可用流量:1024.0 GB                    https://mifa.world/nitrino
+- 可用流量:1346.28 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+- 可用流量:1754.0 GB                    https://ys.jiedianxielou.workers.dev:443
 - 可用流量:2048.0 GB                    https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-- 可用流量:258.52 GB                    https://399dd33c.ghelper.me/subs/clash/af106548399dd33c6e1988ae9331068b
-- 可用流量:44.85 GB                    https://xzjb8.no-mad-world.club/link/as53HsDGAEpvUMpc?clash=3&amp;extend=11
-- 可用流量:45.53 GB                    https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
-- 可用流量:459.19 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
-- 可用流量:459.19 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
-- 可用流量:459.19 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
-- 可用流量:459.19 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd
-- 可用流量:459.19 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd#
-- 可用流量:459.19 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io
-- 可用流量:47.62 GB                    https://7m8tk.no-mad-world.club/link/YHTw7AZifDT4Jeqc?clash=3
-- 可用流量:48.77 GB                    https://pcq7y.no-mad-world.club/link/Lnhw8YmdYo7on5BF?clash=3
-- 可用流量:49.1 GB                    https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
+- 可用流量:217.94 GB                    https://399dd33c.ghelper.me/subs/clash/af106548399dd33c6e1988ae9331068b
+- 可用流量:416.79 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
+- 可用流量:416.79 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd#
+- 可用流量:416.82 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
+- 可用流量:416.82 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
+- 可用流量:416.82 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd
+- 可用流量:416.82 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io
+- 可用流量:43.73 GB                    https://xzjb8.no-mad-world.club/link/as53HsDGAEpvUMpc?clash=3&amp;extend=11
+- 可用流量:45.12 GB                    https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
+- 可用流量:47.15 GB                    https://7m8tk.no-mad-world.club/link/YHTw7AZifDT4Jeqc?clash=3
+- 可用流量:48.61 GB                    https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
+- 可用流量:48.76 GB                    https://pcq7y.no-mad-world.club/link/Lnhw8YmdYo7on5BF?clash=3
 - 可用流量:50.0 GB                    https://mlshu.com/api/v1/client/subscribe?token=013d13ca43f6be1f279ab2a6133aad7b
 - 可用流量:50.0 GB                    https://mlshu.top/s/013d13ca43f6be1f279ab2a6133aad7b
-- 可用流量:532.6 GB                    https://ys.jiedianxielou.workers.dev:443
-- 可用流量:723.45 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-- 可用流量:744.2 GB                    http://clash.liudonghoe.com
-- 可用流量:744.2 GB                    http://clash.liudonghoe.com/
-- 可用流量:744.2 GB                    http://clash.liudonghoe.com:8080
-- 可用流量:744.2 GB                    http://clash.liudonghoe.com:8080#https://snni.868001.xyz/a0337ead-44b0-42f1-981d-9f4876d85a3f
-- 可用流量:744.2 GB                    https://clash.liudonghoe.com
-- 可用流量:744.2 GB                    https://clash.liudonghoe.com:8443
-- 可用流量:9999999.0 GB                    https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456
+- 可用流量:735.17 GB                    http://clash.liudonghoe.com
+- 可用流量:735.17 GB                    http://clash.liudonghoe.com/
+- 可用流量:735.17 GB                    http://clash.liudonghoe.com:8080
+- 可用流量:735.17 GB                    http://clash.liudonghoe.com:8080#https://snni.868001.xyz/a0337ead-44b0-42f1-981d-9f4876d85a3f
+- 可用流量:735.17 GB                    https://clash.liudonghoe.com
+- 可用流量:735.17 GB                    https://clash.liudonghoe.com:8443
 机场订阅:
 - http://clash.liudonghoe.com
 - http://clash.liudonghoe.com/
@@ -612,14 +614,12 @@ v2订阅:
 - https://clash.liudonghoe.com
 - https://clash.liudonghoe.com:8443
 - https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-- https://mifa.world/quasar
+- https://mifa.world/nitrino
 - https://mlshu.com/api/v1/client/subscribe?token=013d13ca43f6be1f279ab2a6133aad7b
 - https://mlshu.top/s/013d13ca43f6be1f279ab2a6133aad7b
 - https://pcq7y.no-mad-world.club/link/Lnhw8YmdYo7on5BF?clash=3
 - https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 - https://sub.femboy.us.ci/?url=freenodes
 - https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
-- https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456
 - https://xzjb8.no-mad-world.club/link/as53HsDGAEpvUMpc?clash=3&amp;extend=11
 - https://ys.jiedianxielou.workers.dev:443
-- https://yz6on.no-mad-world.club/link/2RftO5z9yJiPkPVN?clash=3&amp;extend=1
