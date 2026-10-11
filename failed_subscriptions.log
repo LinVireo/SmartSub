@@ -11794,3 +11794,12 @@ https://github.com/LorenEteval/Furious	request_failed
 === 2026-10-11 07:26:23 - 失效订阅 (2 个) ===
 https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/4.txt	request_failed
 https://github.com/LonUp/NodeList/raw/main/V2RAY/Latest_base64.txt	request_failed
+
+=== 2026-10-12 07:35:25 - 失效订阅 (7 个) ===
+https://apps.apple.com/us/app/stockduty/id6785269333	request_failed
+https://sus.clodom.link/message/api/sourlist/860be257a364935675483e9eba8e6524	http_403
+https://cdn4.telesco.pe/file/ce3123d343.mp4?token=M2NKvVXJO4ZxY3hZ8bU5pfy9o52fdnPkZHDTuX0VSx9HtQXlc5qw2UFR_7miwX-1YllO3u4pTJGsNT_uI0B2Pay3bbrxSSYNmxnJoYKKFQC1DDleUrBLoA2KAHHuvSCJxHKvoTqSImTIt5-zzzHOxGalb4J2C0xnmZLAfqVb9aoxNI1G8w-lwUmJnjACt8ZPk7BpGfInxDNrTr7DAF5HV2imnc_Z5og2UL6fBAi2ZdhCUTkJALUIm_XRTU0PMQlWreuGSpBJe-v7TDvOKyrbPIFUZBgURzidRzRzdP58pzWXSomtGdTnqNie0_yOyBusF9iHWkdDZAEGr-Rf_L32pw	http_500
+https://cdn4.telesco.pe/file/vO3rBG6IVKfo-iKl0KPp0jbneowkZ8HDelcbD-Cn0h0PNLb84eJEpeLPFc23x7Lg9Jx3HMFEzSyZTec1mV3FaIERk8iunWTeEGo9LIURfpY925jg_WdUJ2ljTXfDDtA0uNATCJCQAI1eUXWKouaRwxeaooMhMBcO7h68h0srBTgPeNfUqWrJRgaRQ2aZgLK_dmJf1J3FrURULVsakj58SRAZyGJd7w4Rw3K6s6v4ZeJ6X-P5JPnHWPNgZnAtMUiAOVuX9lQi7CyQGRUcMW77OfMNHGSOSqHL-tNPeDF2ieTmbPyllNakIVcp-fsnp4JMILABWHDw2Yk_hnd9nMoOcw	http_500
+http://1234:1234@63.176.160.240:2080#%F0%9F%AB%A114@oneclickvpnkeys	request_failed
+http://1234:1234@18.194.239.151:2080#%F0%9F%AB%A19@oneclickvpnkeys	http_407
+https://cdn4.telesco.pe/file/36c2375aa1.mp4?token=iHmP69b4I0Nm89jORF4WP-mopLvLfuwBopkAdFLZINKKgpV0-NFLpl5ZDg5sptwRssWJ8tIF6Z3SshCHRcLW37VSKws5rFXEp-94IQ6la_jjy1dBjs9DBtS9_mjQjMWKUyM9RvN2xVFF0tori4o46GNR2pYEiEi0lTyAajyaCx7PVCRCJO5-bIn_OgYTzNm9Oj9O-JXVzy9T4N660vRBWhGO0fRGh6CNk0unXp9pA3Z3MY_81hDQAEBfv5ZBVW2fHPCNKxYBMVRSGpQWhQjbjJ55nbaUpQbXyzfW3rVzAeWNSeR792wVcOymTuECEovCqTIkDP1K_-WuhjGp0sF3BQ	http_500
