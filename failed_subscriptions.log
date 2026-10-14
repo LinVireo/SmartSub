@@ -11834,3 +11834,16 @@ http://103.193.172.0/23	request_failed
 === 2026-10-14 07:43:11 - 失效订阅 (2 个) ===
 https://lovehk.xyz/s/8a38eb455d9e53ef9c49844bd3646d85	http_403
 https://lovehk.xyz/s/50715317ef155d1ae1c3532ca754d39a	http_403
+
+=== 2026-10-15 07:08:22 - 失效订阅 (8 个) ===
+https://www.youtube.com/watch?v=5GISvEfdbm4	http_429
+http://ww290.top/	request_failed
+https://wk392.sakuracloud.vip/#/register?code=PVsS4u0g	request_failed
+https://sus.clodom.link/message/api/sourlist/e97d77cedce9905ff4f6f60fa9fdc7f4	http_403
+https://sus.clodom.link/message/api/sourlist/67c1f2bd6c60c295299bd6215705b0a9	http_403
+https://jkun.waimaosass.icu/api/v1/client/subscribe?token=1469b2b0f3fae7e6fb9a4fb1cdba2ee5	http_403
+https://youtu.be/3plgHxbbI5A	http_429
+https://youtu.be/22Tk80x62z8	http_429
+
+=== 2026-10-15 07:08:56 - 失效订阅 (1 个) ===
+https://cdn-JW4NJ4H4ZVPLYAL7KA36.luxkelly.com/s/05faabcd5dfc55fc65f9254e45cb8bba	http_403
