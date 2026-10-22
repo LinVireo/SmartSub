@@ -12024,3 +12024,34 @@ http://141.11.1.110:3128	request_failed
 === 2026-10-22 07:11:50 - 失效订阅 (2 个) ===
 https://794132.xueshanlink.com/api/xueshanlink/360d920eee0c0a17dfd2d7e34721445c	http_521
 https://admin.harnesscom.com/sub/djMsMzQ1LDE3OTIxNjMwNjY._hSlt_oVn9ihqx4yCjgAVB9G_S8cmog0XIXXydileBw	request_failed
+
+=== 2026-10-23 07:12:37 - 失效订阅 (25 个) ===
+https://jikun.zmxoo.xyz/subapi?token=free_Oxjxx8oXZtB6HsYVe2&amp;placeholder=1	http_403
+https://jikun.zmxoo.xyz/subapi?token=free_Oxjxx8oXZtB6HsYVe2&amp;placeholder=1&amp;placeholder=2&amp;placeholder=3	http_403
+https://ss88.beifengyuns.top/s/9cbd7a90d71bd2cf31d4dd3c9e19c4d7	http_403
+https://18.198.197.229:443	request_failed
+http://37.187.109.70:10111/	http_400
+http://37.187.109.70:10111	http_400
+https://15.188.144.253:443/	request_failed
+https://18.198.197.229:443/	request_failed
+https://18.198.188.204:443/	request_failed
+https://18.198.188.204:443	request_failed
+https://15.188.144.253:443	request_failed
+https://203.12.28.18:9443/	request_failed
+https://203.12.28.18:9443	request_failed
+https://cdn4.telesco.pe/file/fPEbBr7pMNcrkhW9qHFklQihgpGDCI3A1rQ4y_3O9vbFxwvGUv1joeQm-tJPvXYEvrz6a2-ct5rEs5kiimR9dgGvdAozi_LTtK2hH9MNWGOO4C53LRFCzsWYmuOXNtvhC3Xww8PA2w4jaWHcMzwyv7JJjV60TYNskNT2qfiKmINX0i8B_QIx5c4fzfAT9daa_Oqqj1IPju8LjUkL1MB76Vlr5zjVbHGFrkzqcQdtFGd_oETfhc5gZJmnLrml76UYd56vIpusGQ4M6GJwYxrfWMqn2RonIOwY79lMfVnSKQL7pu_lc3ozkN2tvsh0Qd61zK3ZEx54VykegHynNGptKQ	http_500
+https://cdn4.telesco.pe/file/6c67e29b5a.mp4?token=G4Jk55NaHWYfazQBBkcFb9950EjBO3wHhVko2EQWrKCMThg44CFqvRjnohgVcrgIF8EE2rwPWRJhe2hk91rKcWfkcb-sP2974zXq6XIP9axxtfv4p2lWasUQdOnaKttGAucKLaKZEXUIjFTWLPOCZjfDmxojptiQ6KYN4XLKMSqkf7iSJDGIW-bhqRNxGlDAR2FE1KwdcxHZeqDNlcI5VcRWLkaEuOdiinF3q7w35kQbqS3PILOh0JiPYt3nTxc10as-d4jn9HX10AJUon56vxTIc5TGmJXMIXuILrSlOk3mJoidhwspBEzVc42wwY7hlMtjbz0xY6e5--X6Vs8ZmQ	http_500
+http://1234:1234@13.212.14.88:2080#%F0%9F%9B%B868@oneclickvpnkeys	http_407
+http://1234:1234@13.212.144.250:2080#%F0%9F%9B%B867@oneclickvpnkeys	http_407
+https://cdn4.telesco.pe/file/lO559Q09iiTZWEVQYu8W2xE0JDYSrg2NbSPCoYQFt0INK-YasEQnF_AxAuBFYYLnzTXXhzBv1bJeJmIG_ex_ay7Xg1VjFTYkG4Ug0tfCWyofVLavhsyiZI_h5F8iDyR4lMJ9VlehhRehcCGqKD9R0BQEsoz3jOID29l-oAJNd1XsVGMU6qUAG1sifGd1CW2W04gFy2tlaBtnyYS07z-xZ-1L22IQYEnLsHdqQ4GpWMf3f2SMsQxB0o0i7iXiyi_Cq-K16WY79Fs7XVwzJm_GR4xnD4hk6kYX896nVAFNPLLCoV5EoUmXcbt_7KWjzGZFNtsOUAmnaznnbtabcaaKjA	http_500
+https://cdn4.telesco.pe/file/X-YTklopyaSukdwbRpE2P3edNa_cSVW42xtoLHGLpBIYEKXAxyDCizYdIYftlpPkPvjao3HRgudNJjzuhRPQNMNBBg0_qlT-9Mr4tX7pQBbmIsj1gnLVIMLZ_A8sdoyitrASkyTGyTlKuwrtBlDPRkkPyvqmnmHZ7sQJGOHn5b4GOQVdgzlQBPDdYLIjTFxA2-u7sahvcPtGdIfFrod7KG-51vIf1q6o3D67vTLibNe3GrrkibtgfhOzLx7PTTGtR0X9Np4zerS_VJUb0JaQJnq1Fl74cKWE65wyMFrLODOXf0D-Hk467sl0oCF9pqEjF5JiOIwuszaX-QNHGgtaAw	http_500
+https://proxy-socks5.com	request_failed
+https://proxy-socks5.com/	request_failed
+http://62.182.199.134:3128/	request_failed
+https://cdn4.telesco.pe/file/Xn5I13hOKLDsqEV4hz7N4WRCkL0fBwwAIl5zTvH_Nee8bqD4x6oMElIKXyK_RvRX1T4jM79vFxuMfwjEMhAk1u_o76tKZSUaamarQzZcSZ7REG1_JdYQeWuhACv6fPLKdBdXg7tWaDBO2aVvcJOdCmtN5J3NsMF5VuCmKpIBaUn8rLtiMoZh9osQUudZzUUcwUDnMlIe2Qq2KGHRunC-27nv-YcZC7aAO8SwLZ-uWx1WPzCAd-DPBipxFhIuG_VSgcPrqLZb92KxFsn40aQhrSPqtm52-wg5CDrbonU0VmnKoCq8RsjYp7y3uqrbdYsxFagmsIkW-R0Fj3N1pPQvvA	http_500
+http://62.182.199.134:3128	request_failed
+http://202.50.253.36:19999/#%F0%9F%87%BA%F0%9F%87%B8%F0%9D%99%8F%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%9A%F0%9D%99%9C%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%A2%E2%AB%B8%40%F0%9D%99%AB%F0%9D%9F%AE%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%AE%F0%9D%99%89%F0%9D%99%82_%F0%9D%99%88%F0%9D%99%96%F0%9D%99%A9%F0%9D%99%A8%F0%9D%99%AA%F0%9D%99%A7%F0%9D%99%9E	request_failed
+
+=== 2026-10-23 07:13:02 - 失效订阅 (2 个) ===
+https://popcornlab.de/api/v1/miaomiao?OuO=0eae8121bdf685aa47a2015e13af3701	http_403
+https://w.12.kg/6/b7bc52ae97ab73735940b6eae128c422	http_403
