@@ -1,7 +1,6 @@
 clash订阅:
 - http://111.91.18.88/clash-08ae88825d66b1a1.yaml
 - http://clash.liudonghoe.com
-- http://clash.liudonghoe.com/
 - http://clash.liudonghoe.com:8080
 - http://clash.liudonghoe.com:8080#https://snni.868001.xyz/a0337ead-44b0-42f1-981d-9f4876d85a3f
 - http://dns.1111988.xyz
@@ -177,43 +176,26 @@ clash订阅:
 - https://nodebuf.com/files/public/cmutrqvgl71whoh5w9e5awd1s/download
 - https://nodebuf.com/files/public/cmuuhhj8e7clyoh5wyqvhwjwg/download
 - https://nodebuf.com/files/public/cmuv76q8o7npkoh5wekjzgcnt/download
-- https://nodebuf.com/files/public/cmuvwx8t27x2qoh5w1ammstnq/download
 - https://nodebuf.com/files/public/cmuwmnjtc88v2oh5wsmgdtlor/download
-- https://nodebuf.com/files/public/cmuxccknp8l36oh5wl6t8s964/download
-- https://nodebuf.com/files/public/cmuy235lf8wxjoh5wea56dj3s/download
 - https://nodebuf.com/files/public/cmuyrsdki98b4oh5wd9jscz0d/download
 - https://nodebuf.com/files/public/cmuzhj5ua9ljcoh5wqvgp57cg/download
 - https://nodebuf.com/files/public/cmv078heh9xrvoh5wd18f1vv9/download
 - https://nodebuf.com/files/public/cmv0wz3wla7iwoh5w0kuw0p5p/download
-- https://nodebuf.com/files/public/cmv1moj0faiphoh5wikah8x0x/download
-- https://nodebuf.com/files/public/cmv2cf78gascnoh5wfn2q7lto/download
 - https://nodebuf.com/files/public/cmv324fe6b20eoh5ww27ijzsz/download
-- https://nodebuf.com/files/public/cmv4hkemibjyyoh5w43espt6s/download
-- https://nodebuf.com/files/public/cmv57arrfbt7eoh5wb5wh2rs0/download
 - https://nodebuf.com/files/public/cmv5wzvsvc199oh5w74hhou3u/download
-- https://nodebuf.com/files/public/cmv6mqf4dccphoh5wlm7isjma/download
 - https://nodebuf.com/files/public/cmv7cfxv8cly3oh5wvx6d8h4m/download
 - https://nodebuf.com/files/public/cmv826du5cxzpoh5w2o0p38ug/download
 - https://nodebuf.com/files/public/cmv8rvm36d8lxoh5w5p100hhx/download
 - https://nodebuf.com/files/public/cmv9hmagldj4soh5w2115yrip/download
 - https://nodebuf.com/files/public/cmva7bmfgdscboh5w0hc6eagx/download
-- https://nodebuf.com/files/public/cmvax220pe34boh5w9ryiankj/download
 - https://nodebuf.com/files/public/cmvbmru6ledeqoh5wmlgkrk2a/download
-- https://nodebuf.com/files/public/cmvcch6v7em56oh5wczcbw5xl/download
-- https://nodebuf.com/files/public/cmvd27okxev44oh5wbslcrx94/download
-- https://nodebuf.com/files/public/cmvdrxfngf3u6oh5wex4t4vkj/download
-- https://nodebuf.com/files/public/cmvehnpoefe5soh5whhqhlrxy/download
-- https://nodebuf.com/files/public/cmvf7cvmk02n5zj5w8kttfmbs/download
 - https://nodebuf.com/files/public/cmvfx3qd30crszj5wu6ecla67/download
 - https://nodebuf.com/files/public/cmvgmsnt10mlxzj5wcwuej0vs/download
-- https://nodebuf.com/files/public/cmvhcjgq20041y95wyuiwttar/download
 - https://nodebuf.com/files/public/cmvi28qrc00k0y95w2wekpie3/download
-- https://nodebuf.com/files/public/cmvirypa2012gy95w3kvfmr5p/download
-- https://nodebuf.com/files/public/cmvjhop5h01jgy95w56nxw675/download
+- https://nodebuf.com/files/public/cmvkx4f571lmv5u5wdswyhrvr/download
 - https://pcq7y.no-mad-world.club/link/Lnhw8YmdYo7on5BF?clash=3
 - https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/light/clash.yaml
 - https://raw.githubusercontent.com/69z1zfw2fly/fly/main/2.yaml
-- https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/ndnode.yaml
 - https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
 - https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc3.yaml
 - https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
@@ -271,6 +253,7 @@ clash订阅:
 - https://update.glados-config.com/mihomo/684175/46bf72f/70852/glados.yaml
 - https://uu.66666.bond/c/oURXbDs
 - https://v1.mk/cUHZ56b
+- https://v1.mk/mafCdlA
 - https://v2clash.blog/Link/20260828-clash.yaml
 - https://v2rayse.com/fs/public/20260407/4s7cd9k.yaml
 - https://v2rayse.com/fs/public/20260408/7g2rh6i.yaml
@@ -370,9 +353,7 @@ v2订阅:
 - https://korp-proxy.ru/api/sub/788b26a6-a99d-4391-aadb-ea7408e5a000/?_t=1790572225567%23KorpVPN?providerid=MO7awQCE
 - https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819
 - https://ly.ba000.cc/s/d194066d5d4e228a21aa7257554a69e9
-- https://mifa.world/prime
-- https://mlshu.com/api/v1/client/subscribe?token=013d13ca43f6be1f279ab2a6133aad7b
-- https://mlshu.top/s/013d13ca43f6be1f279ab2a6133aad7b
+- https://mifa.world/hive
 - https://my.ssonenetwork.com/ssone/b360fde7f215b37d10295524fe3dd9c2
 - https://niaodi.top/niao?token=8cf28a28d8ed739b8e9bc5489a73a75b
 - https://node.lovehk.xyz/s/19c8f388efc496ae05b0e8f2aacb1b38
@@ -442,23 +423,15 @@ v2订阅:
 - https://nodebuf.com/files/public/cmu1wnzx50dawnv5wopd6zpyi/download
 - https://nodebuf.com/files/public/cmu2me1ie0qtnnv5wgv7c20f9/download
 - https://nodebuf.com/files/public/cmu3c430b127inv5wl9mx8g2q/download
-- https://nodebuf.com/files/public/cmu41u7g21d1znv5woe312pn9/download
 - https://nodebuf.com/files/public/cmu4rka761oh8nv5wvuj8g06v/download
-- https://nodebuf.com/files/public/cmu5h9ql91z9env5w9gxbk0pa/download
 - https://nodebuf.com/files/public/cmu66zrap2a5wnv5w0ehl0j4z/download
-- https://nodebuf.com/files/public/cmu6wpwp02l3jnv5wim3nkc1r/download
-- https://nodebuf.com/files/public/cmu7mfyt52w8vnv5wchfau23f/download
 - https://nodebuf.com/files/public/cmu8c52b136fhnv5wz88eb7x4/download
-- https://nodebuf.com/files/public/cmu91v8cu3hj9nv5wnn74q6t5/download
 - https://nodebuf.com/files/public/cmu9rlb833s9fnv5wn9fbtbfd/download
 - https://nodebuf.com/files/public/cmuahbc7a43c3nv5wz53suxrr/download
 - https://nodebuf.com/files/public/cmub71nlg02wh155wt49axe9w/download
-- https://nodebuf.com/files/public/cmubwrmiy0d4g155wsngswkwz/download
 - https://nodebuf.com/files/public/cmucmgvgy02m18p5w1q0h89am/download
-- https://nodebuf.com/files/public/cmudc771b0eap8p5wmbmk12h3/download
 - https://nodebuf.com/files/public/cmue1wyus03veoh5w4tw7iot4/download
 - https://nodebuf.com/files/public/cmuernfb00gaqoh5wat64e8mn/download
-- https://nodebuf.com/files/public/cmufhcj9t0ukdoh5wq7uawiky/download
 - https://nodebuf.com/files/public/cmug72tp7163doh5w3lttcikm/download
 - https://nodebuf.com/files/public/cmugwtd6f1hg5oh5w786egwlx/download
 - https://nodebuf.com/files/public/cmuic8xi5257qoh5wem21cdgl/download
@@ -470,44 +443,15 @@ v2订阅:
 - https://nodebuf.com/files/public/cmummjqmr40b9oh5wus1cwu9h/download
 - https://nodebuf.com/files/public/cmuo20mc64nldoh5wfb1tk524/download
 - https://nodebuf.com/files/public/cmuorpj2e4z69oh5wre2elkz5/download
-- https://nodebuf.com/files/public/cmuphg0iv5actoh5ww3e0hn53/download
-- https://nodebuf.com/files/public/cmuq758g15l5voh5wgkp8tahj/download
-- https://nodebuf.com/files/public/cmuqwvx2v5unqoh5w1daas9zo/download
 - https://nodebuf.com/files/public/cmut21rm36rxsoh5wftp0u1x7/download
-- https://nodebuf.com/files/public/cmutrqvgi71wfoh5ws2vmjvtb/download
 - https://nodebuf.com/files/public/cmuuhhjjk7cm3oh5wfp5dc64c/download
 - https://nodebuf.com/files/public/cmuwmnjta88v1oh5wrlqsa3bh/download
 - https://nodebuf.com/files/public/cmuxcckt18l3aoh5wx5wpsko5/download
-- https://nodebuf.com/files/public/cmuy235m08wxkoh5wp45p9be4/download
-- https://nodebuf.com/files/public/cmuyrsdor98b7oh5w144mg7e5/download
 - https://nodebuf.com/files/public/cmuzhj5vf9ljeoh5wmggqy0s1/download
-- https://nodebuf.com/files/public/cmv078he69xrtoh5wdr80v6do/download
-- https://nodebuf.com/files/public/cmv0wz3woa7ixoh5w45iyh7rx/download
-- https://nodebuf.com/files/public/cmv1moj45aipioh5wztaqu3yj/download
-- https://nodebuf.com/files/public/cmv2cf78iascooh5w8tcswk2t/download
-- https://nodebuf.com/files/public/cmv324fi7b20goh5wuaon3oid/download
-- https://nodebuf.com/files/public/cmv4hkeo0bjyzoh5wq3okyc72/download
-- https://nodebuf.com/files/public/cmv57ars5bt7foh5w0a42etbi/download
-- https://nodebuf.com/files/public/cmv5wzvstc198oh5wxp41nbws/download
 - https://nodebuf.com/files/public/cmv6mqf5eccpjoh5w304wk1u5/download
-- https://nodebuf.com/files/public/cmv7cfxvacly4oh5wpjyrw6m9/download
-- https://nodebuf.com/files/public/cmv826du7cxzqoh5wy0tfmoiw/download
-- https://nodebuf.com/files/public/cmv8rvm38d8lzoh5w5p7lr565/download
-- https://nodebuf.com/files/public/cmv9hmahqdj4woh5w97juy1mu/download
-- https://nodebuf.com/files/public/cmva7bmgedsccoh5w42jw7f98/download
 - https://nodebuf.com/files/public/cmvax21yse34aoh5wbvyhu98z/download
-- https://nodebuf.com/files/public/cmvbmru7eederoh5wvlyjf4b0/download
-- https://nodebuf.com/files/public/cmvcch6oiem53oh5wn3c5yi8f/download
-- https://nodebuf.com/files/public/cmvd27oetev42oh5w3cwuhm8y/download
-- https://nodebuf.com/files/public/cmvdrxfngf3u5oh5we2hqtwf1/download
-- https://nodebuf.com/files/public/cmvehnppafe5toh5w30xot1w3/download
 - https://nodebuf.com/files/public/cmvf7cvmm02n6zj5wjmt3tnib/download
 - https://nodebuf.com/files/public/cmvfx3qdo0cruzj5w9s5ewi22/download
-- https://nodebuf.com/files/public/cmvgmsnnp0mluzj5wme7c4fdj/download
-- https://nodebuf.com/files/public/cmvhcjgpx0040y95w9kr23i8i/download
-- https://nodebuf.com/files/public/cmvi28qkf00jwy95wydkhk334/download
-- https://nodebuf.com/files/public/cmviryp9u012ey95wum4dgf8t/download
-- https://nodebuf.com/files/public/cmvjhop5e01jey95wchele7cs/download
 - https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/HighSpeed.txt
 - https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet_iOS.txt
 - https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt
@@ -523,7 +467,6 @@ v2订阅:
 - https://raw.githubusercontent.com/Strongmiao168/v2ray/main/1203
 - https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hysteria2
 - https://raw.githubusercontent.com/Tenerome/v2ray/main/vmess.txt
-- https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt
 - https://raw.githubusercontent.com/ZywChannel/free/main/sub
 - https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt
 - https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
@@ -558,7 +501,6 @@ v2订阅:
 - https://raw.githubusercontent.com/rzhy1/11/master/sub/sub_merge_base64.txt
 - https://raw.githubusercontent.com/sami-soft/v2rayN_proxy/main/new1.txt
 - https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/vmess.txt
-- https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt
 - https://raw.githubusercontent.com/shuaidaoya/FreeNodes/refs/heads/main/nodes/base64.txt
 - https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
 - https://raw.githubusercontent.com/tjyu010/jiedian/main/21
@@ -612,15 +554,9 @@ v2订阅:
 - https://v2rayse.com/fs/public/20260416/sanz6ql.txt
 - https://v2rayse.com/fs/public/20260420/free-node-share-1422.txt
 - https://v2rayse.com/fs/public/20260420/free-node-share-2000.txt
-- https://v2rayse.com/fs/public/20260422/free-node-share-0800.txt
-- https://v2rayse.com/fs/public/20260427/free-node-share-0800.txt
 - https://v2rayse.com/fs/public/20260430/free-node-share-0800.txt
 - https://v2rayse.com/fs/public/20260505/free-node-share-2000.txt
-- https://v2rayse.com/fs/public/20260508/free-node-share-0800.txt
-- https://v2rayse.com/fs/public/20260510/free-node-share-0800.txt
 - https://v2rayse.com/fs/public/20260511/free-node-share-0800.txt
-- https://v2rayse.com/fs/public/20260511/free-node-share-2000.txt
-- https://v2rayse.com/fs/public/20260518/free-node-share-0800.txt
 - https://vless.lrdxw.club/5dc15e15-f285-4a9d-959b-0e4fbdd77b63
 - https://www.edeyuan.com/s/d87abd1c08c321062891d9487aeba5fc
 - https://xn--kivt58h.lol/s/2695ba79bcf8b4777ccff509690f0f22
@@ -630,26 +566,26 @@ v2订阅:
 - https://yu.11144444.xyz/x/hXggqYK
 - https://yy.77777.bond/x/sSEpDhL
 开心玩耍:
-- 可用流量:1.66 GB                    https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819
+- 可用流量:1.27 GB                    https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 - 可用流量:100.0 GB                    https://sub.shadowproxy66.workers.dev/sub/736218dc-3cdf-4e93-bb5b-1d726418e43e#ShadowProxy66
 - 可用流量:100.0 GB                    https://sub.shadowproxy66.workers.dev/sub/e298329f-2274-4b24-8d7c-84183c77dba8#ShadowProxy66
 - 可用流量:100.0 GB                    https://sub.shadowproxy66.workers.dev/sub/e7c122fa-35f6-4962-9ff4-70ab55e6fbac#ShadowProxy66
 - 可用流量:101373.0 GB                    https://sub.femboy.us.ci/?url=freenodes
 - 可用流量:1022976.0 GB                    https://honghong.yyylll.kdns.fr/sub/user/eyJ1IjoidGVzdGFhYTEyMyIsImUiOi0zMDI0MzUxMTI0MzA4ODkwLCJzIjoiMmI0YjRmZDVhZGRjYjg4OSJ9?vip=1&amp;protocol=default
-- 可用流量:178.86 GB                    https://cf.frnhk.xyz/s/8e1d39a1f4b31cd2e186ae160b864d96
+- 可用流量:163.96 GB                    https://cf.frnhk.xyz/s/8e1d39a1f4b31cd2e186ae160b864d96
 - 可用流量:2048.0 GB                    https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-- 可用流量:352.68 GB                    https://ys.jiedianxielou.workers.dev:443
-- 可用流量:417.12 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
-- 可用流量:417.12 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
-- 可用流量:417.12 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
-- 可用流量:417.12 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd#
-- 可用流量:417.12 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=TG_proxyshareCN
-- 可用流量:417.12 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io
-- 可用流量:650.31 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-- 可用流量:687.31 GB                    http://111.91.18.88/clash-08ae88825d66b1a1.yaml
+- 可用流量:339.18 GB                    https://ys.jiedianxielou.workers.dev:443
+- 可用流量:363.91 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
+- 可用流量:363.91 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
+- 可用流量:363.91 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
+- 可用流量:363.91 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd#
+- 可用流量:363.91 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=TG_proxyshareCN
+- 可用流量:363.91 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io
+- 可用流量:5.13 GB                    https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
+- 可用流量:660.63 GB                    http://111.91.18.88/clash-08ae88825d66b1a1.yaml
 - 可用流量:707.0 GB                    https://yi2gmw3ns8.qinyues4.cc/a11e22865782df21f052be69c2148265
-- 可用流量:8.87 GB                    https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
-- 可用流量:99.96 GB                    https://node.lovehk.xyz/s/19c8f388efc496ae05b0e8f2aacb1b38
+- 可用流量:871.43 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+- 可用流量:89.33 GB                    https://node.lovehk.xyz/s/19c8f388efc496ae05b0e8f2aacb1b38
 机场订阅:
 - http://111.91.18.88/clash-08ae88825d66b1a1.yaml
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
@@ -661,9 +597,9 @@ v2订阅:
 - https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 - https://cf.frnhk.xyz/s/8e1d39a1f4b31cd2e186ae160b864d96
 - https://honghong.yyylll.kdns.fr/sub/user/eyJ1IjoidGVzdGFhYTEyMyIsImUiOi0zMDI0MzUxMTI0MzA4ODkwLCJzIjoiMmI0YjRmZDVhZGRjYjg4OSJ9?vip=1&amp;protocol=default
-- https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819
 - https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 - https://node.lovehk.xyz/s/19c8f388efc496ae05b0e8f2aacb1b38
+- https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 - https://sub.femboy.us.ci/?url=freenodes
 - https://sub.shadowproxy66.workers.dev/sub/736218dc-3cdf-4e93-bb5b-1d726418e43e#ShadowProxy66
 - https://sub.shadowproxy66.workers.dev/sub/e298329f-2274-4b24-8d7c-84183c77dba8#ShadowProxy66
